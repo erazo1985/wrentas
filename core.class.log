@@ -1,0 +1,770 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '573103888754@s.whatsapp.net',
+    fromMe: false,
+    id: '935CB7337916C5E3A3EEC4FF63AE61DC',
+    participant: undefined
+  },
+  messageTimestamp: 1720556435,
+  pushName: 'Harold F. Erazo',
+  broadcast: false,
+  message: Message {
+    conversation: 'Ho',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Ho',
+  from: '573103888754'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_3a6b3171-eaeb-4d93-b61d-383872b8093b',
+  keyword: 'key_e50ff1b2-c2cf-4ae9-8b82-cb68e555a9c1',
+  answer: 'Selección incorrecta puede escribir la palabra *menu* para iniciar otra vez',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 1000,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '438de6bf5812780a06d9c8e1770526b5'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573103888754@s.whatsapp.net',
+    fromMe: false,
+    id: '694638BC0B3123B8584BB8AC5CB83982',
+    participant: undefined
+  },
+  messageTimestamp: 1720556439,
+  pushName: 'Harold F. Erazo',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '573103888754'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_ecc8b3ad-87fa-47ee-b4d5-b60cc86f4c78',
+  keyword: 'key_6e4da806-f3d6-48fa-848b-09b6b868aabd',
+  answer: '🙌 Hola bienvenid@ al *Chatbot* de la Oficina de Rentas de la Secretaria de Hacienda del Departamento del Cauca',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 1000,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '5e544d2b7a6b580df77dd3fc3850fac6'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_a577af19-d9e4-4396-997a-4019eb4c0b12',
+  keyword: 'ans_ecc8b3ad-87fa-47ee-b4d5-b60cc86f4c78',
+  answer: '*RECUERDE* Cualquier tramite que solicite es unico y exclusivamente para el *Departamento del Cauca*, no se aceptan de otros departamentos',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 1000,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '74918623d75e3a3d1c866741e8ec899f'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_4810eeaa-a2e4-4ebb-8f8e-fe9071f52031',
+  keyword: 'ans_a577af19-d9e4-4396-997a-4019eb4c0b12',
+  answer: 'Para iniciar escriba la palabra *menu* y siga el tramite que requiere',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 1000,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'e421120a8013daf2d1fa4ffb7069b1c0'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573103888754@s.whatsapp.net',
+    fromMe: false,
+    id: 'BD37994D51F3A8166FA70A3FB9FE275E',
+    participant: undefined
+  },
+  messageTimestamp: 1720556451,
+  pushName: 'Harold F. Erazo',
+  broadcast: false,
+  message: Message {
+    conversation: 'Menu',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Menu',
+  from: '573103888754'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_9a25ee99-691b-4b60-9350-a888c80adc86',
+  keyword: 'key_92888ba3-1973-4d7c-8077-35c8a1fdf25d',
+  answer: 'Elija una de las siguientes opciones:\n' +
+    '\n' +
+    '👉 *1* Realizar un Tramite\n' +
+    '👉 *2* Oficinas y Horarios de atención\n' +
+    '👉 *0* Para salir e inicir el proceso\n',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '457a4f11aac5b3d2ff935e052e4a2852'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573103888754@s.whatsapp.net',
+    fromMe: false,
+    id: '2397A70276B7714A2ECB7583C2FC5B97',
+    participant: undefined
+  },
+  messageTimestamp: 1720556461,
+  pushName: 'Harold F. Erazo',
+  broadcast: false,
+  message: Message {
+    conversation: '0',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '0',
+  from: '573103888754'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573103888754@s.whatsapp.net',
+    fromMe: false,
+    id: '9A9E8C61A41809E8E5A93BC877090740',
+    participant: undefined
+  },
+  messageTimestamp: 1720556465,
+  pushName: 'Harold F. Erazo',
+  broadcast: false,
+  message: Message {
+    conversation: 'Menu',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Menu',
+  from: '573103888754'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_9a25ee99-691b-4b60-9350-a888c80adc86',
+  keyword: 'key_92888ba3-1973-4d7c-8077-35c8a1fdf25d',
+  answer: 'Elija una de las siguientes opciones:\n' +
+    '\n' +
+    '👉 *1* Realizar un Tramite\n' +
+    '👉 *2* Oficinas y Horarios de atención\n' +
+    '👉 *0* Para salir e inicir el proceso\n',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '457a4f11aac5b3d2ff935e052e4a2852'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573103888754@s.whatsapp.net',
+    fromMe: false,
+    id: '6946AF3445CD2191B44437CEE63A8701',
+    participant: undefined
+  },
+  messageTimestamp: 1720556468,
+  pushName: 'Harold F. Erazo',
+  broadcast: false,
+  message: Message {
+    conversation: '2',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '2',
+  from: '573103888754'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573103888754@s.whatsapp.net',
+    fromMe: false,
+    id: '198A87499ABBE5D71E31938BB2FDBEBC',
+    participant: undefined
+  },
+  messageTimestamp: 1720556483,
+  pushName: 'Harold F. Erazo',
+  broadcast: false,
+  message: Message {
+    conversation: 'Menu',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Menu',
+  from: '573103888754'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_9a25ee99-691b-4b60-9350-a888c80adc86',
+  keyword: 'key_92888ba3-1973-4d7c-8077-35c8a1fdf25d',
+  answer: 'Elija una de las siguientes opciones:\n' +
+    '\n' +
+    '👉 *1* Realizar un Tramite\n' +
+    '👉 *2* Oficinas y Horarios de atención\n' +
+    '👉 *0* Para salir e inicir el proceso\n',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '457a4f11aac5b3d2ff935e052e4a2852'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573103888754@s.whatsapp.net',
+    fromMe: false,
+    id: 'A4A5B0D96D2ACF06C7807EBE15FA004A',
+    participant: undefined
+  },
+  messageTimestamp: 1720556487,
+  pushName: 'Harold F. Erazo',
+  broadcast: false,
+  message: Message {
+    conversation: '1',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '1',
+  from: '573103888754'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573103888754@s.whatsapp.net',
+    fromMe: false,
+    id: '1A946D5A284A9DCFF08BF03E2E545F2F',
+    participant: undefined
+  },
+  messageTimestamp: 1720556491,
+  pushName: 'Harold F. Erazo',
+  broadcast: false,
+  message: Message {
+    conversation: '1',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '1',
+  from: '573103888754'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_c856416f-79f0-4355-9863-66ff3eec0de8',
+  keyword: 'key_65699930-56b9-4e18-a70b-1a9aa43328d5',
+  answer: 'Para los tramites como son:\n' +
+    '- Recibo de pago\n' +
+    '- Paz y salvo\n' +
+    'Debe enviar correo electronico a vehiculos@cauca.gov.co con el asunto del tramite a requerir y anexar como soporte en *PDF* tarjeta de propiedad por ambos lados.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 1000,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'b88ab6825ea9024b79ef24e455b08445'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_abad9242-a1fc-4dce-995d-d46ab1b7c90f',
+  keyword: 'ans_c856416f-79f0-4355-9863-66ff3eec0de8',
+  answer: 'Para el tramite como es:\n' +
+    '- Actualización de datos\n' +
+    '- Cambio Propietario\n' +
+    '- Error en el Nombre o Cedula\n' +
+    'Debe enviar correo electronico a vehiculos@cauca.gov.co con el asunto del tramite a requerir y anexar como soporte en *PDF* tarjeta de propiedad por ambos lados y diligenciar formato de Actualización de datos.\n' +
+    'https://rentascauca.gov.co/wp-content/uploads/2024/04/FORMATO-DE-ACTUALIZACION-DE-DATOS-FINAL.pdf',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 1000,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'bc63f2b0b2fa4684e98a9f2763d39f8a'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_367939de-9ca6-43e3-b0b4-6bd08fbd39eb',
+  keyword: 'ans_abad9242-a1fc-4dce-995d-d46ab1b7c90f',
+  answer: 'Para el tramite como es:\n' +
+    '- Matricula inicial\n' +
+    'Debe enviar correo electronico a vehiculos@cauca.gov.co con el asunto: Matricula Inicial y anexar como soporte en *PDF* Factura de venta, esta debe contener.\n' +
+    '- Informacion personal del propietario (Nombre completo, Cedula, Direccion, Telefono, Correo electronico y la placa asignada',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 1000,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '02415fd51daa70830c64d591f3e54ccd'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_6f2c4e69-3ea1-46cb-bac6-9e499a09b058',
+  keyword: 'ans_367939de-9ca6-43e3-b0b4-6bd08fbd39eb',
+  answer: 'Para el tramite como es:\n' +
+    '- Persona Indeterminada\n' +
+    'Debe enviar correo electronico a vehiculos@cauca.gov.co con el asunto: Persona indeterminada y anexar como soporte en *PDF* resoluacion o documento entregado por la Secretaria de Transito.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 1000,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'a2333da577cf83cb9e40fb7da9ce8647'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_afbe056b-4a47-49ac-b73b-3da5dde2ca57',
+  keyword: 'ans_6f2c4e69-3ea1-46cb-bac6-9e499a09b058',
+  answer: 'Para el tramite como es:\n' +
+    '- Radicación de Cuenta\n' +
+    'Por traslado de otro municipio, debe enviar correo electronico a vehiculos@cauca.gov.co con el asunto: Radicacion de cuenta y anexar como soporte en *PDF*\n' +
+    '- Tarjeta de propiedad por ambos lados\n' +
+    '- Carta de nueva residencia, expedida por la Secretaria de transito donde se matriculo\n' +
+    '- Diligenciar formato de Actualización de datos.\n' +
+    'https://rentascauca.gov.co/wp-content/uploads/2024/04/FORMATO-DE-ACTUALIZACION-DE-DATOS-FINAL.pdf',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 1000,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '6923697ee4a3666c1cf3d5f73fb35023'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573103888754@s.whatsapp.net',
+    fromMe: false,
+    id: 'A217E0D87D73D5C3675107D4EFC96759',
+    participant: undefined
+  },
+  messageTimestamp: 1720556517,
+  pushName: 'Harold F. Erazo',
+  broadcast: false,
+  message: Message {
+    conversation: 'Menu',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Menu',
+  from: '573103888754'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_9a25ee99-691b-4b60-9350-a888c80adc86',
+  keyword: 'key_92888ba3-1973-4d7c-8077-35c8a1fdf25d',
+  answer: 'Elija una de las siguientes opciones:\n' +
+    '\n' +
+    '👉 *1* Realizar un Tramite\n' +
+    '👉 *2* Oficinas y Horarios de atención\n' +
+    '👉 *0* Para salir e inicir el proceso\n',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '457a4f11aac5b3d2ff935e052e4a2852'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573103888754@s.whatsapp.net',
+    fromMe: false,
+    id: 'A58D5C121FDCFAA7B5AB6669E33772F0',
+    participant: undefined
+  },
+  messageTimestamp: 1720556520,
+  pushName: 'Harold F. Erazo',
+  broadcast: false,
+  message: Message {
+    conversation: '2',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '2',
+  from: '573103888754'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573103888754@s.whatsapp.net',
+    fromMe: false,
+    id: '1848EC609D43A6358E8AC3108B69900A',
+    participant: undefined
+  },
+  messageTimestamp: 1720556529,
+  pushName: 'Harold F. Erazo',
+  broadcast: false,
+  message: Message {
+    conversation: 'Menu',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Menu',
+  from: '573103888754'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_9a25ee99-691b-4b60-9350-a888c80adc86',
+  keyword: 'key_92888ba3-1973-4d7c-8077-35c8a1fdf25d',
+  answer: 'Elija una de las siguientes opciones:\n' +
+    '\n' +
+    '👉 *1* Realizar un Tramite\n' +
+    '👉 *2* Oficinas y Horarios de atención\n' +
+    '👉 *0* Para salir e inicir el proceso\n',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '457a4f11aac5b3d2ff935e052e4a2852'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573103888754@s.whatsapp.net',
+    fromMe: false,
+    id: 'A4218BB64376743A4C7C1FCA5C76D6D2',
+    participant: undefined
+  },
+  messageTimestamp: 1720556533,
+  pushName: 'Harold F. Erazo',
+  broadcast: false,
+  message: Message {
+    conversation: '1',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '1',
+  from: '573103888754'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573103888754@s.whatsapp.net',
+    fromMe: false,
+    id: '2318FD0DEB7232B28BA96A49B1D16BB0',
+    participant: undefined
+  },
+  messageTimestamp: 1720556536,
+  pushName: 'Harold F. Erazo',
+  broadcast: false,
+  message: Message {
+    conversation: '2',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '2',
+  from: '573103888754'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_e01d3515-b5bf-4b9a-aa52-5472a3a9406c',
+  keyword: 'key_a82adf96-31d3-418c-9d20-a1c791ea378e',
+  answer: '*Impuesto de Registro*\n' +
+    'Para realizar el tramite se debe enviar un correo electrónico a la siguiente dirección:\n' +
+    'imporegistro@cauca.gov.co\n' +
+    '*Asunto:* Expedición de recibo Impuesto de Registro.\n' +
+    'Después Anexar o Adjuntar la escritura escaneada en su totalidad en formato PDF\n' +
+    ' *menu* - *Volver al inicio*',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'df7133229c434bb3c211b0fe5ce27a85'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573103888754@s.whatsapp.net',
+    fromMe: false,
+    id: '82BF81616703FF541B024FA2E73E4A8B',
+    participant: undefined
+  },
+  messageTimestamp: 1720556550,
+  pushName: 'Harold F. Erazo',
+  broadcast: false,
+  message: Message {
+    conversation: 'Menu',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Menu',
+  from: '573103888754'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_9a25ee99-691b-4b60-9350-a888c80adc86',
+  keyword: 'key_92888ba3-1973-4d7c-8077-35c8a1fdf25d',
+  answer: 'Elija una de las siguientes opciones:\n' +
+    '\n' +
+    '👉 *1* Realizar un Tramite\n' +
+    '👉 *2* Oficinas y Horarios de atención\n' +
+    '👉 *0* Para salir e inicir el proceso\n',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '457a4f11aac5b3d2ff935e052e4a2852'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573103888754@s.whatsapp.net',
+    fromMe: false,
+    id: '767A266E72F9602758298FCEC410DAA3',
+    participant: undefined
+  },
+  messageTimestamp: 1720556554,
+  pushName: 'Harold F. Erazo',
+  broadcast: false,
+  message: Message {
+    conversation: '1',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '1',
+  from: '573103888754'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573103888754@s.whatsapp.net',
+    fromMe: false,
+    id: '0104D598895F39DBAF3A34C17ABD4908',
+    participant: undefined
+  },
+  messageTimestamp: 1720556560,
+  pushName: 'Harold F. Erazo',
+  broadcast: false,
+  message: Message {
+    conversation: '4',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '4',
+  from: '573103888754'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_5b9b6dcd-909b-47cb-aa69-08094c7c7814',
+  keyword: 'key_4a2e9d17-6587-4ebb-907f-e5d68e39b10c',
+  answer: 'Documentos a descargar:\nhttps://rentascauca.gov.co/descargas/',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 1000,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'cebbfab311ab5896df93c039f67341ad'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_174012d0-7c1b-4e46-a7e1-d1803a84d1e8',
+  keyword: 'ans_5b9b6dcd-909b-47cb-aa69-08094c7c7814',
+  answer: 'Formato para devolución o compensación de pagos en exceso y pagos de los no debido de impuesto de vehículos\n' +
+    'http://rentascauca.gov.co/wp-content/uploads/2020/07/Devolucion-del-impuesto-de-vehiculos-2020.pdf',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 1000,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'e6ff3c0fe011a55f9d71bb0af173ae0f'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_16059438-079e-46fb-a992-269f16d42249',
+  keyword: 'ans_174012d0-7c1b-4e46-a7e1-d1803a84d1e8',
+  answer: 'Formato para devolución del impuesto de registro\n' +
+    'http://rentascauca.gov.co/wp-content/uploads/2020/07/Devolucion-del-impuesto-de-registro-2020.pdf',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 1000,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '71326dce0fb414733ed153c386619b07'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_fc96ed72-f979-414c-a52e-3aac4374abe8',
+  keyword: 'ans_16059438-079e-46fb-a992-269f16d42249',
+  answer: 'Formato de Solicitud de Prescripción- Impuesto de Vehículos\n' +
+    'https://rentascauca.gov.co/wp-content/uploads/2024/04/FORMATO-DE-PRESCRIPCION-FINAL.pdf',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 1000,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '0411db3a3f690a2969bf2673a6f75530'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_9a43a661-aae3-408f-8c90-e8339b9a522a',
+  keyword: 'ans_fc96ed72-f979-414c-a52e-3aac4374abe8',
+  answer: 'Formato de actualización de datos- Impuesto de Vehículos\n' +
+    'https://rentascauca.gov.co/wp-content/uploads/2024/04/FORMATO-DE-ACTUALIZACION-DE-DATOS-FINAL.pdf',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 1000,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '47aa5be9ea39ba0b911e86260612447f'
+}

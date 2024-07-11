@@ -1,0 +1,5 @@
+Elija una de las siguientes opciones:
+
+👉 *1* Realizar un Tramite
+👉 *2* Oficinas y Horarios de atención
+👉 *0* Para salir e inicir el proceso
